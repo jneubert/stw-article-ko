@@ -1,7 +1,7 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Andreas Oskar Kempf
+- Joachim Neubert
 bibliography:
 - content/manual-references.json
 date-meta: '2020-06-23'
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="STW Thesaurus for Economics" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="STW Thesaurus for Economics" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="STW Thesaurus for Economics" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="STW Thesaurus for Economics" />
 
   <meta name="dc.date" content="2020-06-23" />
 
@@ -39,19 +39,15 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Andreas Oskar Kempf" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="ZBW - Leibniz Information Centre for Economics" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author" content="Joachim Neubert" />
 
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="ZBW - Leibniz Information Centre for Economics" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
@@ -67,11 +63,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jneubert.github.io/stw-article-ko/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/08aeaf2159d64ba9a0564a0f32329724eeffc45e/" />
+  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/08aeaf2159d64ba9a0564a0f32329724eeffc45e/" />
+  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/08aeaf2159d64ba9a0564a0f32329724eeffc45e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +81,14 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- thesaurus
+- economics
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: STW Thesaurus for Economics
 ...
 
 
@@ -103,9 +98,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://jneubert.github.io/stw-article-ko/v/08aeaf2159d64ba9a0564a0f32329724eeffc45e/))
+([permalink](https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/))
 was automatically generated
-from [jneubert/stw-article-ko@08aeaf2](https://github.com/jneubert/stw-article-ko/tree/08aeaf2159d64ba9a0564a0f32329724eeffc45e)
+from [jneubert/stw-article-ko@f68b64e](https://github.com/jneubert/stw-article-ko/tree/f68b64eeda0afe9fadf6b66af64d1bcd1d121add)
 on June 23, 2020.
 </em></small>
 
@@ -113,25 +108,18 @@ on June 23, 2020.
 
 
 
-+ **John Doe**<br>
++ **Andreas Oskar Kempf**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     ZBW - Leibniz Information Centre for Economics
   </small>
 
-+ **Jane Roe**<br>
++ **Joachim Neubert**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     ZBW - Leibniz Information Centre for Economics
   </small>
 
 
