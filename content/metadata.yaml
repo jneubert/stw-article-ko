@@ -1,26 +1,19 @@
 ---
-title: "Manuscript Title"
+title: "STW Thesaurus for Economics"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - thesaurus
+  - economics
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - name: Andreas Oskar Kempf
+    initials: k
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    email: a.kempf@zbw.eu
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
+      - ZBW - Leibniz Information Centre for Economics
+  - name: Joachim Neubert
+    initials: n
     orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    email: j.neubert@zbw.eu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - ZBW - Leibniz Information Centre for Economics
