@@ -1,8 +1,8 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/$REPO_SLUG/tree/gh-pages) branch hosts the contents of this directory at <https://$OWNER_NAME.github.io/$REPO_NAME/>.
-The permalink for this webpage version is <https://$OWNER_NAME.github.io/$REPO_NAME/v/$COMMIT/>.
-To redirect to the permalink for the latest manuscript version at anytime, use the link <https://$OWNER_NAME.github.io/$REPO_NAME/v/freeze/>.
+The [`gh-pages`](https://github.com/$REPO_SLUG/tree/gh-pages) branch hosts the contents of this directory at <https://jneubert.github.io/stw-article-ko/>.
+The permalink for this webpage version is <https://jneubert.github.io/stw-article-ko/v/$COMMIT/>.
+To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jneubert.github.io/stw-article-ko/v/freeze/>.
 
 ## Files
 
