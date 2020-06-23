@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jneubert.github.io/stw-article-ko/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/88d50704b50cbb483db674545b521ff9c65645db/" />
+  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/8fd7077406befc2df70e832bca85464d00e04811/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/88d50704b50cbb483db674545b521ff9c65645db/" />
+  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/8fd7077406befc2df70e832bca85464d00e04811/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/88d50704b50cbb483db674545b521ff9c65645db/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/8fd7077406befc2df70e832bca85464d00e04811/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://jneubert.github.io/stw-article-ko/v/88d50704b50cbb483db674545b521ff9c65645db/))
+([permalink](https://jneubert.github.io/stw-article-ko/v/8fd7077406befc2df70e832bca85464d00e04811/))
 was automatically generated
-from [jneubert/stw-article-ko@88d5070](https://github.com/jneubert/stw-article-ko/tree/88d50704b50cbb483db674545b521ff9c65645db)
+from [jneubert/stw-article-ko@8fd7077](https://github.com/jneubert/stw-article-ko/tree/8fd7077406befc2df70e832bca85464d00e04811)
 on June 23, 2020.
 </em></small>
 
