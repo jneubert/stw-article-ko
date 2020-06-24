@@ -63,11 +63,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jneubert.github.io/stw-article-ko/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/" />
+  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/d622ede62fc3c79c580ed463396b2036882278e0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/" />
+  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/d622ede62fc3c79c580ed463396b2036882278e0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/d622ede62fc3c79c580ed463396b2036882278e0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -98,9 +98,9 @@ title: STW Thesaurus for Economics
 
 <small><em>
 This manuscript
-([permalink](https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/))
+([permalink](https://jneubert.github.io/stw-article-ko/v/d622ede62fc3c79c580ed463396b2036882278e0/))
 was automatically generated
-from [jneubert/stw-article-ko@53bf97a](https://github.com/jneubert/stw-article-ko/tree/53bf97aacbcd99bd39d5c0a7066062eb8c1792be)
+from [jneubert/stw-article-ko@d622ede](https://github.com/jneubert/stw-article-ko/tree/d622ede62fc3c79c580ed463396b2036882278e0)
 on June 24, 2020.
 </em></small>
 
@@ -126,8 +126,10 @@ on June 24, 2020.
 
 ## Abstract {.page_break_before}
 
-The STW Thesaurus for Economics is an ISO-25964-compliant generally reusable information retrieval thesaurus for Economics available in German and English. This paper describes the story behind it, its structure and usage and the possibilities of its re-use.It starts with an overview of the previous history and the development of the STW. 
+The STW Thesaurus for Economics[@url:http://zbw.eu/stw] is an ISO-25964-compliant generally reusable information retrieval thesaurus for Economics available in German and English. This paper describes the story behind it, its structure and usage and the possibilities of its re-use.It starts with an overview of the previous history and the development of the STW. 
 
+
+## ---- Example text - to delete -----
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
