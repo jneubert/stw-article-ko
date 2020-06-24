@@ -63,11 +63,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jneubert.github.io/stw-article-ko/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/d622ede62fc3c79c580ed463396b2036882278e0/" />
+  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/f83ee4bf5bc0b60f9dffb7fe9c668b7c53b7068a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/d622ede62fc3c79c580ed463396b2036882278e0/" />
+  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/f83ee4bf5bc0b60f9dffb7fe9c668b7c53b7068a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/d622ede62fc3c79c580ed463396b2036882278e0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/f83ee4bf5bc0b60f9dffb7fe9c668b7c53b7068a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -98,9 +98,9 @@ title: STW Thesaurus for Economics
 
 <small><em>
 This manuscript
-([permalink](https://jneubert.github.io/stw-article-ko/v/d622ede62fc3c79c580ed463396b2036882278e0/))
+([permalink](https://jneubert.github.io/stw-article-ko/v/f83ee4bf5bc0b60f9dffb7fe9c668b7c53b7068a/))
 was automatically generated
-from [jneubert/stw-article-ko@d622ede](https://github.com/jneubert/stw-article-ko/tree/d622ede62fc3c79c580ed463396b2036882278e0)
+from [jneubert/stw-article-ko@f83ee4b](https://github.com/jneubert/stw-article-ko/tree/f83ee4bf5bc0b60f9dffb7fe9c668b7c53b7068a)
 on June 24, 2020.
 </em></small>
 
@@ -129,7 +129,7 @@ on June 24, 2020.
 The STW Thesaurus for Economics[@url:http://zbw.eu/stw] is an ISO-25964-compliant generally reusable information retrieval thesaurus for Economics available in German and English. This paper describes the story behind it, its structure and usage and the possibilities of its re-use.It starts with an overview of the previous history and the development of the STW. 
 
 
-## ---- Example text - to delete -----
+## Manubot example text - TO DELETE
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
