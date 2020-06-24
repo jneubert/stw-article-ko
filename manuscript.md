@@ -4,7 +4,7 @@ author-meta:
 - Joachim Neubert
 bibliography:
 - content/manual-references.json
-date-meta: '2020-06-23'
+date-meta: '2020-06-24'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="STW Thesaurus for Economics" />
 
-  <meta name="dc.date" content="2020-06-23" />
+  <meta name="dc.date" content="2020-06-24" />
 
-  <meta name="citation_publication_date" content="2020-06-23" />
+  <meta name="citation_publication_date" content="2020-06-24" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -63,11 +63,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jneubert.github.io/stw-article-ko/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/" />
+  <link rel="alternate" type="text/html" href="https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/" />
+  <meta name="manubot_html_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -98,10 +98,10 @@ title: STW Thesaurus for Economics
 
 <small><em>
 This manuscript
-([permalink](https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/))
+([permalink](https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/))
 was automatically generated
-from [jneubert/stw-article-ko@f68b64e](https://github.com/jneubert/stw-article-ko/tree/f68b64eeda0afe9fadf6b66af64d1bcd1d121add)
-on June 23, 2020.
+from [jneubert/stw-article-ko@53bf97a](https://github.com/jneubert/stw-article-ko/tree/53bf97aacbcd99bd39d5c0a7066062eb8c1792be)
+on June 24, 2020.
 </em></small>
 
 ## Authors

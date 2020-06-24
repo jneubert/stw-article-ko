@@ -6,12 +6,12 @@
       "economics"
     ],
     "lang": "en-US",
-    "date-meta": "2020-06-23",
+    "date-meta": "2020-06-24",
     "author-meta": [
       "Andreas Oskar Kempf",
       "Joachim Neubert"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"STW Thesaurus for Economics\" />\n<meta name=\"citation_title\" content=\"STW Thesaurus for Economics\" />\n<meta property=\"og:title\" content=\"STW Thesaurus for Economics\" />\n<meta property=\"twitter:title\" content=\"STW Thesaurus for Economics\" />\n<meta name=\"dc.date\" content=\"2020-06-23\" />\n<meta name=\"citation_publication_date\" content=\"2020-06-23\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Andreas Oskar Kempf\" />\n<meta name=\"citation_author_institution\" content=\"ZBW - Leibniz Information Centre for Economics\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"citation_author\" content=\"Joachim Neubert\" />\n<meta name=\"citation_author_institution\" content=\"ZBW - Leibniz Information Centre for Economics\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://jneubert.github.io/stw-article-ko/\" />\n<meta property=\"og:url\" content=\"https://jneubert.github.io/stw-article-ko/\" />\n<meta property=\"twitter:url\" content=\"https://jneubert.github.io/stw-article-ko/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jneubert.github.io/stw-article-ko/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jneubert.github.io/stw-article-ko/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jneubert.github.io/stw-article-ko/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"STW Thesaurus for Economics\" />\n<meta name=\"citation_title\" content=\"STW Thesaurus for Economics\" />\n<meta property=\"og:title\" content=\"STW Thesaurus for Economics\" />\n<meta property=\"twitter:title\" content=\"STW Thesaurus for Economics\" />\n<meta name=\"dc.date\" content=\"2020-06-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-06-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Andreas Oskar Kempf\" />\n<meta name=\"citation_author_institution\" content=\"ZBW - Leibniz Information Centre for Economics\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"citation_author\" content=\"Joachim Neubert\" />\n<meta name=\"citation_author_institution\" content=\"ZBW - Leibniz Information Centre for Economics\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://jneubert.github.io/stw-article-ko/\" />\n<meta property=\"og:url\" content=\"https://jneubert.github.io/stw-article-ko/\" />\n<meta property=\"twitter:url\" content=\"https://jneubert.github.io/stw-article-ko/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jneubert.github.io/stw-article-ko/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jneubert.github.io/stw-article-ko/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jneubert.github.io/stw-article-ko/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -21,13 +21,12 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "June 23, 2020",
+    "date": "June 24, 2020",
     "authors": [
       {
         "name": "Andreas Oskar Kempf",
         "initials": "k",
         "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "a.kempf@zbw.eu",
         "affiliations": [
           "ZBW - Leibniz Information Centre for Economics"
         ],
@@ -39,7 +38,6 @@
         "name": "Joachim Neubert",
         "initials": "n",
         "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "j.neubert@zbw.eu",
         "affiliations": [
           "ZBW - Leibniz Information Centre for Economics"
         ],
@@ -59,15 +57,15 @@
       "repo_slug": "jneubert/stw-article-ko",
       "repo_owner": "jneubert",
       "repo_name": "stw-article-ko",
-      "commit": "f68b64eeda0afe9fadf6b66af64d1bcd1d121add",
-      "triggering_commit": "f68b64eeda0afe9fadf6b66af64d1bcd1d121add",
-      "build_url": "https://github.com/jneubert/stw-article-ko/commit/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/checks",
+      "commit": "53bf97aacbcd99bd39d5c0a7066062eb8c1792be",
+      "triggering_commit": "53bf97aacbcd99bd39d5c0a7066062eb8c1792be",
+      "build_url": "https://github.com/jneubert/stw-article-ko/commit/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/checks",
       "job_url": "https://github.com/jneubert/stw-article-ko/runs/run3"
     },
     "html_url": "https://jneubert.github.io/stw-article-ko/",
     "pdf_url": "https://jneubert.github.io/stw-article-ko/manuscript.pdf",
-    "html_url_versioned": "https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/",
-    "pdf_url_versioned": "https://jneubert.github.io/stw-article-ko/v/f68b64eeda0afe9fadf6b66af64d1bcd1d121add/manuscript.pdf",
+    "html_url_versioned": "https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/",
+    "pdf_url_versioned": "https://jneubert.github.io/stw-article-ko/v/53bf97aacbcd99bd39d5c0a7066062eb8c1792be/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": null,
     "manuscript_stats": {
