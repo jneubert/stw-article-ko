@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jneubert/stw-article-ko/tree/gh-pages) branch hosts the contents of this directory at <https://jneubert.github.io/stw-article-ko/>.
-The permalink for this webpage version is <https://jneubert.github.io/stw-article-ko/v/d622ede62fc3c79c580ed463396b2036882278e0/>.
+The permalink for this webpage version is <https://jneubert.github.io/stw-article-ko/v/f83ee4bf5bc0b60f9dffb7fe9c668b7c53b7068a/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jneubert.github.io/stw-article-ko/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`d622ede62fc3c79c580ed463396b2036882278e0`](https://github.com/jneubert/stw-article-ko/commit/d622ede62fc3c79c580ed463396b2036882278e0).
+[`f83ee4bf5bc0b60f9dffb7fe9c668b7c53b7068a`](https://github.com/jneubert/stw-article-ko/commit/f83ee4bf5bc0b60f9dffb7fe9c668b7c53b7068a).
